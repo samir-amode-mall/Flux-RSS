@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FluxRss</string>
+    <string name="description_image">image</string>
+    <string name="drawer_close">Fermer le tiroir</string>
+    <string name="drawer_open">Ouvrir le tiroir</string>
+    <string name="image_precedente">précédent</string>
+    <string name="image_suivante">suivant</string>
+    <string name="test_image_date">Date\n</string>
+    <string name="test_image_description">description</string>
+    <string name="test_image_title">Titre</string>
+    <style name="Base.Theme.FluxRss" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FluxRss" parent="Base.Theme.FluxRss"/>
+</resources>
