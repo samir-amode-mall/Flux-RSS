@@ -1,0 +1,10 @@
+#Sun Dec 15 22:56:34 CET 2024
+base.0=/home/amod-mall-samir/Documents/2A/DeveloppementMobile/FluxRss2/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/amod-mall-samir/Documents/2A/DeveloppementMobile/FluxRss2/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/amod-mall-samir/Documents/2A/DeveloppementMobile/FluxRss2/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

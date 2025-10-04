@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonNext
+id buttonPrev
+id imageDate
+id imageDescription
+id imageDisplay
+id imageTitle
+id progressBar
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string description_image
+string drawer_close
+string drawer_open
+string image_precedente
+string image_suivante
+string test_image_date
+string test_image_description
+string test_image_title
+style Base.Theme.FluxRss
+style Theme.FluxRss
+xml backup_rules
+xml data_extraction_rules
